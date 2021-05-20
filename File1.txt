@@ -6,3 +6,4 @@ Adding this change on the conflict branch
 
 Adding text 3.1.1Writing out line 1
 Writing out line 2
+Writing out line 3
