@@ -4,4 +4,4 @@ Adding this change on the main branch
 AND
 Adding this change on the conflict branch
 
-Adding text 3.1.1
+Adding text 3.1.1Writing out line 1
